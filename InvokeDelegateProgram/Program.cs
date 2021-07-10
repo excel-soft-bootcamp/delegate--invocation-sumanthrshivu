@@ -9,7 +9,6 @@ namespace InvokeDelegateProgram
             static public void M1() { }
             static public void M2(string data) { }
             public int M3(int x) { return x; }
-            public int ArgumentMethod5(int data) { return data; }
             public bool M4(string data, string msg) { return true; }
             public static double Calculate(int x, double y) { return x + y; }
 
